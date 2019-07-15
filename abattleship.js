@@ -19,7 +19,7 @@ view.displayMiss("55");
 view.displayHit("12");
 view.displayMiss("25");
 view.displayHit("26");
-view.displayMessage("Is it on");
+view.displayMessage("Is it on - Pillz 2 point O baby");
 
 var model = {
   boardSize: 7,
